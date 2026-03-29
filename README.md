@@ -6,7 +6,7 @@ A straight-forward and beginner friendly yearly compound interest calculator cre
 **Features:**
 
 - User-friendly, easy to read logic.
-- Input validation, checks for negative values and loops until valid user input is received using while loops, and if, else, and break statements. 
+- Input validation, checks for negative values and loops until valid user input is received; using while loops, and if, else, and break statements. 
 - Zero dependencies. No need to import or install external additional libraries.
 
 **How to run:**
